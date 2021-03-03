@@ -1,14 +1,13 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Team Name: DS6
 
 Team Members - Name and Student ID
 
-1.  
-2.  
-3.  
-4.  
+Ibtesam Faleh Alhazimi
+
+2201002692
 
 ## Packages
 
@@ -39,6 +38,8 @@ dim(nobel)
 ```
 
     ## [1] 935  26
+
+Observation:953 Variables:26
 
 Each row represents information about a nobel prize winner.
 
